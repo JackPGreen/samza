@@ -76,7 +76,7 @@ subprojects {
       url 'http://samza.apache.org/'
 
       scm {
-        url 'https://git-wip-us.apache.org/repos/asf?p=samza.git;a=tree'
+        url 'https://git-wip-us.apache.org/repos/asf?p=samza.git'
         connection 'scm:http://git-wip-us.apache.org/repos/asf/samza.git'
         developerConnection 'scm:https://git-wip-us.apache.org/repos/asf/samza.git'
       }

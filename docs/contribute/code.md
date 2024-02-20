@@ -19,7 +19,7 @@ title: Code
    limitations under the License.
 -->
 
-Samza's code is in an Apache Git repository located [here](https://git-wip-us.apache.org/repos/asf?p=samza.git;a=tree).
+Samza's code is in an Apache Git repository located [here](https://git-wip-us.apache.org/repos/asf?p=samza.git).
 
 You can check out Samza's code by running:
 
